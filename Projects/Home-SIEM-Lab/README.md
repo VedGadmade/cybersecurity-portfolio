@@ -10,8 +10,8 @@ monitored and identified unusual activities using ingested Windows Event Logs.
 
 ## What I Did
 - Splunk was set up to gather login events from my computer.
-- Constructed a dashboard to show unsuccessful login attempts
-- Developed an alert rule to identify brute-force trends(5+ failures/minute)
+- Constructed a dashboard to show unsuccessful login attempts.
+- Developed an alert rule to identify brute-force trends(5+ failures/minute).
 
 ## Incident Detected
 Detected multiple failed login attempts on 21/04. 
