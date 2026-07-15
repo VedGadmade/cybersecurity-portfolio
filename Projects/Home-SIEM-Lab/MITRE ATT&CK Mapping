@@ -1,0 +1,8 @@
+For the brute-force alert:
+
+Item                                              	Value
+Technique                                       	T1110-Brute Force
+Tactic	                                          Credential Access
+Evidence	                                  Event ID 4625, multiple failures
+Detection	                                          Splunk alert
+Severity	                                              Medium
