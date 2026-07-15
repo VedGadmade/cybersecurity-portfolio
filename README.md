@@ -9,7 +9,9 @@
 ## Skills
 - Linux Commands & Security
 - Networking Fundamentals
-- SIEM Basics (Splunk, Elastic)
+- SIEM Basics (Splunk)
+- Wireshark
+- Nmap
 - Alert Triage & Log Analysis
 
 Will be updating write-ups of all TryHackMe rooms here.
