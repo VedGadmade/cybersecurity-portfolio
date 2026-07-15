@@ -1,0 +1,29 @@
+Incident Name:
+Possible Brute Force Attempt
+
+Date:
+14 July 2026
+
+Severity:
+Medium
+
+Detection Source:
+Splunk Alert
+
+Event ID:
+4625
+
+MITRE ATT&CK:
+T1110 – Brute Force
+
+Summary:
+Multiple failed login attempts detected within one minute for the same account.
+
+Evidence:
+5+ Event ID 4625 events
+
+Recommendation:
+• Investigate the source
+• Reset the password if compromised
+• Enable MFA
+• Review account activity
