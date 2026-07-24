@@ -33,5 +33,5 @@ Observed TCP SYN scanning behavior from a single source host targeting multiple 
 - HTTP/HTTPS
 - ARP
 - MITRE ATT&CK Mapping
-Threat Detection
-Security Investigation
+- Threat Detection
+- Security Investigation
