@@ -22,3 +22,16 @@ Documented findings and mapped reconnaissance activity to MITRE ATT&CK T1046 (Ne
 ## **Investigation Summary**
 
 Observed TCP SYN scanning behavior from a single source host targeting multiple ports on the destination system. Verified open services through SYN–SYN/ACK–RST packet sequences and documented the reconnaissance activity with supporting packet evidence.
+
+## **Key Skills Demonstrated**
+Network Traffic Analysis
+Packet Analysis
+Wireshark
+Nmap
+TCP/IP
+DNS
+HTTP/HTTPS
+ARP
+MITRE ATT&CK Mapping
+Threat Detection
+Security Investigation
