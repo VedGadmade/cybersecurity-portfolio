@@ -1,3 +1,4 @@
+# Network Traffic Analysis & Reconnaissance Detection Lab
 ## **What I Built**
 
 Created a home network analysis lab using Wireshark and Nmap to capture, inspect, and analyze network traffic. Investigated normal network communication and identified reconnaissance activity through packet analysis.
