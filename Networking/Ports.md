@@ -1,3 +1,4 @@
+# Ports
 | Port | Service | Description |
 |---:|---|---|
 | **21** | **FTP** | **FTP (File Transfer Protocol)** is used to transfer files between systems. It is insecure because usernames, passwords, and data are transmitted in plain text. Secure alternatives are **SFTP (SSH File Transfer Protocol)** and **FTPS (FTP over SSL/TLS)**. |
