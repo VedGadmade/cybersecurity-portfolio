@@ -10,7 +10,7 @@ OSI ( Open System Interconnection)  model is a 7 layer framework which standardi
 | Presentation | Translation , encrypts(SSL/TLS)  and compress  | Varies by application |  JEPG, MPEG, ASCII | End Hosts, Gateways |
 | Application | Interface between user applications and network; provides network services to end-user applications | 80 - HTTP, 443 - HTTPS, 21 - FTP, 22 - SSH, 25 - SMTP, 53 - DNS,  | HTTP, HTTPS, FTP, SSH, SMTP, DNS | End Hosts(Computers, Servers), Firewalls,  |
 
-### ENCAPSULATION
+### Encapsulation
 
 Layer 7 (Application Layer) - Creates Data (messages)
 
