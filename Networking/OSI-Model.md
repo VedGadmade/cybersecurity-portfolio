@@ -1,4 +1,5 @@
-OSI ( Open System Interconnection)  model is a 7 layer framework which standardize how different networking protocol  and devices communicate.
+# OSI Model
+OSI (Open System Interconnection)  model is a 7 layer framework which standardize how different networking protocol  and devices communicate.
 
 | Layer | Function | Ports  | Protocol | Devices |
 | --- | --- | --- | --- | --- |
