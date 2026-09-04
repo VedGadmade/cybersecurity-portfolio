@@ -1,17 +1,23 @@
-# Cybersecurity Portfolio - Ved
+# Cybersecurity Portfolio — Ved
 
-## Currently Doing
-- CompTIA Security+ SY0-701 (In Progress)
-- TryHackMe SOC Level 1 Path
-- TryHackMe Cybersecurity 101
-- TryHackMe Presecurity
+Aspiring SOC Analyst focused on security monitoring, threat detection, and incident response.
+
+## Currently Learning
+- CompTIA Security+ SY0-701
 
 ## Skills
-- Linux Commands & Security
+- Linux & Windows
 - Networking Fundamentals
-- SIEM Basics (Splunk)
-- Wireshark
-- Nmap
-- Alert Triage & Log Analysis
+- SIEM & Splunk
+- Wireshark & Nmap
+- Log Analysis & Alert Triage
+- MITRE ATT&CK
+- Incident Response (NIST)
 
-Will be updating write-ups of all TryHackMe rooms here.
+## Projects
+- Home SIEM Lab — Splunk
+- Network Traffic Analysis — Wireshark & Nmap
+
+## Write-ups
+- Networking Fundamentals
+- SOC & Security Concepts
