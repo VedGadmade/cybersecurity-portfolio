@@ -17,7 +17,3 @@ Aspiring SOC Analyst focused on security monitoring, threat detection, and incid
 ## Projects
 - Home SIEM Lab — Splunk
 - Network Traffic Analysis — Wireshark & Nmap
-
-## Write-ups
-- Networking Fundamentals
-- SOC & Security Concepts
