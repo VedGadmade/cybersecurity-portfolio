@@ -9,6 +9,7 @@ Aspiring SOC Analyst focused on security monitoring, threat detection, and incid
 - Linux & Windows
 - Networking Fundamentals
 - SIEM & Splunk
+- Suricata
 - Wireshark & Nmap
 - Log Analysis & Alert Triage
 - MITRE ATT&CK
