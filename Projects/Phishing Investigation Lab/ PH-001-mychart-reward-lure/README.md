@@ -1,4 +1,4 @@
-# PH-001: "Free Medicare Kit" email pretending to be MyChart
+# PH-001-mychart-reward-lure
 
 *Real phishing email from my own inbox. I never opened the link in a browser (I scanned it with urlscan.io). Personal data is removed and indicators are defanged.*
 
