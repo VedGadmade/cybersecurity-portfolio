@@ -9,10 +9,10 @@
 
 | Field | Value |
 |---|---|
-| User | ved |
+| User | XXX |
 | Action | Login failed |
 | Time | 14:32 |
-| Source IP | 192.168.1.50 |
+| Source IP | 192.168.X.XX |
 
 ## 2. Alert
 
